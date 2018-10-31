@@ -12,4 +12,4 @@
 ### Diseño
 #### Esquema
 El esquema de base de datos es el siguiente:
-
+![Base de datos](imgs/iaw.png)
